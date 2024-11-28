@@ -1,3 +1,9 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: "Roboto Mono", sans-serif;
+}
+
 .chamada{
     background-color: rgb(66, 66, 244);
     padding-top: 80px;
@@ -13,19 +19,7 @@ header{
     text-align: center;
     margin: 30px;
 }
-.categoria-videos{
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-    margin-right: 10px;
-}
-h2{
-    margin-left: 10px;
-}
-.categoria{
-    padding-left: 20px;
-    padding-right: 20px;
-}
+
 .categoria-videos{
     display: flex;
     overflow-x: auto;
@@ -49,29 +43,9 @@ p{
 }
 
 .categoria-videos img:hover {
-    border: 5px solid green;
+    border: 5px solid white;
     opacity: 1.0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
