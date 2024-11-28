@@ -49,7 +49,7 @@ p{
 }
 
 .categoria-videos img:hover {
-    border: 5px solid white;
+    border: 5px solid green;
     opacity: 1.0;
 }
 
